@@ -1,1 +1,2 @@
-# Moderation
+# Moderation               PLAYERS BAN TODAY
+{ jack }
